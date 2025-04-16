@@ -6,7 +6,6 @@
 
 # Week 3
 
-# Week 4
 
 ## References
 https://cs50.readthedocs.io/
